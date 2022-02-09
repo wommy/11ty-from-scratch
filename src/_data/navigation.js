@@ -1,0 +1,24 @@
+module.exports = {
+  items: [
+    {
+      text: 'Home',
+      url: '/'
+    },
+    {
+      text: 'About',
+      url: '/about-us/'
+    },
+    {
+      text: 'Work',
+      url: '/work/'
+    },
+    {
+      text: 'Blog',
+      url: '/blog/'
+    },
+    {
+      text: 'Contact',
+      url: '/contact/'
+    },
+  ]
+}
